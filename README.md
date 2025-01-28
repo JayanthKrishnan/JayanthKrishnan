@@ -55,7 +55,8 @@ I’m a curious problem-solver, passionate about crafting solutions that bridge 
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=JayanthKrishnan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthKrishnan&theme=tokyonight" alt="GitHub Streak" width="48%">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthKrishnan&theme=tokyonight" alt="GitHub Streak" width="48%">
+
 </p>  
 
 ---
